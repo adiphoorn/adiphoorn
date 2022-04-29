@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adiphoorn
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning js, react, npm, nodeserver, sql
+- 🌱 I’m currently learning wordpress, js, react, npm, nodeserver, sql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/alida-diphoorn-3b5409112/
 
